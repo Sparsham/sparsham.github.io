@@ -1,19 +1,14 @@
 # Site settings
-host : dotnetthoughts.net
-name : dotnetthoughts
-description: a dotnet developer's technical journal
-author : "Anuraj P"
-url : "https://dotnetthoughts.net"
+host : sparsham.github.io
+name : sparsham
+description: Sparsham Charitable Society.
+author : "SparshamOrg"
+url : "https://sparsham.github.io"
 baseurl : "/"
-author_name : "Anuraj P"
-author_bio : "Anuraj Parameswaran works as an architect. He has been working on .NET platform since its early days. He is a co-founder of mobithoughts, a mobile application development company. His focus areas are Data Analytics, Architecture and Cloud computing. He is a Microsoft MVP in Visual Studio and Development technologies." 
-twitter_username: anuraj
-github_username:  anuraj
-facebook_username: dotnetthoughts
-googleplus_username : 105671778313820571858
-disqus_shortname: dotnetthoughts
-google_analytics: 'UA-12179122-1'
-gravatar_hash : ab9111466be86e8e027c658e8dc1778f
+author_name : "Sparsham"
+author_bio : "Sparsham is a NGO based on Kerala." 
+twitter_username: sparshamorg
+facebook_username: SparshamCharitableSociety
 # Build settings
 encoding: UTF-8
 markdown: kramdown
@@ -34,14 +29,14 @@ compress_html:
   comments: all
   endings: all
 # SEO settings
-title: dotnetthoughts
+title: sparsham
 twitter:
-  username: dotnet_thoughts
+  username: SparshamCharitableSociety
 facebook:
   app_id: 222755514444735
-  publisher: https://www.facebook.com/anuraj.p
-  admins: https://www.facebook.com/anuraj.p
+  publisher: https://www.facebook.com/SparshamCharitableSociety
+  admins: https://www.facebook.com/kbvishnu
 social:
   name : Anuraj
-  links: ["http://www.twitter.com/anuraj","https://www.facebook.com/anuraj.p","https://plus.google.com/+AnurajP","https://in.linkedin.com/in/anurajp","https://www.youtube.com/channel/UC98FbpEB4PvgOYq1GKCtOgQ"]
+  links: ["http://www.twitter.com/SparshamOrg","https://www.facebook.com/SparshamCharitableSociety","https://plus.google.com/SparshamCharitableSociety","https://in.linkedin.com/in/SparshamCharitableSociety","https://www.youtube.com/channel/UC98FbpEB4PvgOYq1GKCtOgQ"]
 google_site_verification: gfDtT8jd3OHpmGe2VJwYDE7G9-xwmpbQVVugKEU-Kp4
